@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @joshuaalex
-- 👀 I’m interested in Software Development, Networking and NodeJs
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on React and Vue Js project
-- 📫 How to reach me joshuaalex52@gmail.com or 07066031881 or https://www.linkedin.com/in/joshuaalex52/
-
-<!---
-joshuaalex/joshuaalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Accomplished Software Engineer with a robust background in full-stack development, specializing in architecting scalable and efficient backend solutions. Proficient in crafting microservices architecture using NestJS and MongoDB to drive optimal data handling and system reliability. Adept in designing and maintaining responsive APIs, implementing rigorous testing methodologies, and orchestrating DevOps practices to ensure seamless deployment and scalability. Demonstrated success in spearheading projects from conception to deployment, such as Alleybookings and QQPay, optimizing user experiences and system efficiency. Complemented by a strong educational foundation in Computer Science and a continuous pursuit of advanced certifications, I am committed to innovation, collaborative problem-solving, and delivering high-quality solutions in software development.
